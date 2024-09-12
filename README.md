@@ -32,4 +32,5 @@
 
 ## Dashboard
 The Dashboard is linked below and it demonstrates all of the key metrics that were analyzed.
-![Dashboard 1](https://github.com/user-attachments/assets/2097ae54-f39c-4983-85f3-fb2896396e3a)
+
+![Dashboard (Reworked)](https://github.com/user-attachments/assets/923f4065-5036-46a7-9fcc-8889787b2681)
